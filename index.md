@@ -1,12 +1,12 @@
 ---
-title: Anki with Friends
+title: Joseph Policarpio
 layout: template
 filename: index
 ---
 
-# Anki with Friends (previously Battle Anki) is back and better than ever!
+# Hi! I'm Joseph (Joe) Policarpio
 
-Here is the link to the [Anki with Friends add-on page](https://ankiweb.net/shared/info/613520216){:target="_blank"} on the Ankiweb.
+Here is the link to my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:target="_blank"}.
 
 Anki add-on code: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **613520216**
 
