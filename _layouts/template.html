@@ -18,8 +18,14 @@
       <img src="../Images/jp.png"
       height="250"
       width="250">
-      <h1 class="project-name" style="color:#F5F4F4">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline" style="color:#D7D5D2">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+
+      {% if page.title == site.title %}
+        <h1 class="project-name" style="color:#F5F4F4">{{ default: site.title | default: site.github.repository_name }}</h1>
+        <h2 class="project-tagline" style="color:#D7D5D2">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% else %}
+        <h1 class="project-name" style="color:#F5F4F4">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
+      {% endif %}
+
 <!--        {% for page in site.pages %}-->
 <!--            <a href={{ page.filename }} class="btn">{{ page.title }}</a>-->
 <!--        {% endfor %}-->
