@@ -60,6 +60,7 @@ Policarpio, J., MacInnis, B.,  & Wallon, R. (2021, April 16). Augmenting Anki: G
     height="800px">
     <embed src="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf">
         <p>This browser does not support PDFs. Please <a href="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
+    </embed>
 </object>
 
 <iframe width="100%" height="800" src="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf">
