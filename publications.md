@@ -18,8 +18,10 @@ Panigrahy, N., Policarpio, J., & Ramanathan, R. (2020). Multisystem inflammatory
 
 ### Posters
 
-[![Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional 
+<br>Policarpio, J. A., Mehta, S. S., & Derrick, M. J. (2020, March 6). Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional Report [Oral presentation]. 18th Annual College of Medicine Research Day Symposium, University of Illinois at Urbana-Champaign, IL.
+[![Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional
 Report](https://github.com/jopeo/jopeo/blob/master/posters/ARCAPA_Policarpio.jpg?raw=true)](https://github.com/jopeo/jopeo/blob/master/posters/ARCAPA_Policarpio.jpg?raw=true){:target="_blank"}
+
 
 [![Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional 
 Report](..\\jopeo//posters//ARCAPA_Policarpio.jpg)](https://github.com/jopeo/jopeo/blob/master/posters/ARCAPA_Policarpio.jpg?raw=true){:target="_blank"}
