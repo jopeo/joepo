@@ -53,20 +53,16 @@ Cardiomyopathy](https://github.com/jopeo/jopeo/blob/master/posters/Atypical_Card
 # Other Presentations
 <br>
 Policarpio, J., MacInnis, B.,  & Wallon, R. (2021, April 16). Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced Repetition [Virtual presentation]. 19th Annual Health Innovation Research Day, Carle Illinois College of Medicine, virtual.
-
-https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf
-https://github.com/jopeo/jopeo.github.io/blob/adc4e296c9ce628c7b47bed2ba9efafd32f39b6d/Images/Research/CIMED_HIRD.pdf
-
-<object data="https://github.com/jopeo/jopeo.github.io/blob/adc4e296c9ce628c7b47bed2ba9efafd32f39b6d/Images/Research/CIMED_HIRD.pdf"
+<object data="./Images/Research/CIMED_HIRD.pdf"
     type="application/pdf"
     width="100%"
     height="800px">
-    <embed src="https://github.com/jopeo/jopeo.github.io/blob/adc4e296c9ce628c7b47bed2ba9efafd32f39b6d/Images/Research/CIMED_HIRD.pdf">
-        <p>This browser does not support PDFs. Please <a href="https://github.com/jopeo/jopeo.github.io/blob/adc4e296c9ce628c7b47bed2ba9efafd32f39b6d/Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
+    <embed src="./Images/Research/CIMED_HIRD.pdf">
+        <p>This browser does not support PDFs. Please <a href="./Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
     </embed>
 </object>
 
-<iframe width="100%" height="800" src="https://github.com/jopeo/jopeo.github.io/blob/adc4e296c9ce628c7b47bed2ba9efafd32f39b6d/Images/Research/CIMED_HIRD.pdf">
+<iframe width="100%" height="800" src="./Images/Research/CIMED_HIRD.pdf">
 </iframe>
 
 <br><br><br>
