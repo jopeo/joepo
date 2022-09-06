@@ -6,7 +6,7 @@ filename: contact
 
 # Publications
 
-### Articles
+## Articles
 
 Policarpio, J. A., Derrick, M. J., & Mehta, S. S. (In Press). Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional Report. *JTCVS Techniques*.
 
@@ -16,39 +16,35 @@ Poster Presentation Abstracts, 25th Annual Meeting of the International Associat
 
 Panigrahy, N., Policarpio, J., & Ramanathan, R. (2020). Multisystem inflammatory syndrome in children and SARS-CoV-2: A scoping review. *Journal of pediatric rehabilitation medicine*, 13(3), 301-316.
 
-### Posters
+## Posters
 
 <br>Policarpio, J. A., Mehta, S. S., & Derrick, M. J. (2020, March 6). Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional Report [Oral presentation]. 18th Annual College of Medicine Research Day Symposium, University of Illinois at Urbana-Champaign, IL.
 [![Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional
 Report](https://github.com/jopeo/jopeo/blob/master/posters/ARCAPA_Policarpio.jpg?raw=true)](https://github.com/jopeo/jopeo/blob/master/posters/ARCAPA_Policarpio.jpg?raw=true){:target="_blank"}
 
-
-[![Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional 
-Report](..\\jopeo//posters//ARCAPA_Policarpio.jpg)](https://github.com/jopeo/jopeo/blob/master/posters/ARCAPA_Policarpio.jpg?raw=true){:target="_blank"}
-
 [![Atypical Rapid-Onset Paclitaxel/Carboplatin-Induced 
-Cardiomyopathy](..\jopeo/posters/Atypical_Cardiomyopathy.jpg)](https://github.com/jopeo/jopeo/blob/master/posters/Atypical_Cardiomyopathy.jpg?raw=true){:target="_blank"}
+Cardiomyopathy](https://github.com/jopeo/jopeo/blob/master/posters/Atypical_Cardiomyopathy.jpg?raw=true)](https://github.com/jopeo/jopeo/blob/master/posters/Atypical_Cardiomyopathy.jpg?raw=true){:target="_blank"}
 
 [![docAssIst: The Doctor's Artificial 
-Assistant](..\jopeo/posters/docAssIst_HIRD_2022.jpg)](https://github.com/jopeo/jopeo/blob/master/posters/docAssIst_HIRD_2022.jpg?raw=true){:target="_blank"}
+Assistant](https://github.com/jopeo/jopeo/blob/master/posters/docAssIst_HIRD_2022.jpg?raw=true)](https://github.com/jopeo/jopeo/blob/master/posters/docAssIst_HIRD_2022.jpg?raw=true){:target="_blank"}
 
 [![Scaling, Standardization, and Normalization of Inter-Reviewer Scoring of Medical School 
-Applications](..\jopeo/posters/scalstandnorm_scoring_Policarpio.jpg)](https://github.com/jopeo/jopeo/blob/master/posters/scalstandnorm_scoring_Policarpio.jpg?raw=true){:target="_blank"}
+Applications](https://github.com/jopeo/jopeo/blob/master/posters/scalstandnorm_scoring_Policarpio.jpg?raw=true)](https://github.com/jopeo/jopeo/blob/master/posters/scalstandnorm_scoring_Policarpio.jpg?raw=true){:target="_blank"}
 
 [![Burst Pressure Characterization of Bowel Perforation Repair in Ex-Vivo Animal 
-Model](..\jopeo/posters/Burst_pressure_HIRD_2022.jpg)](https://github.com/jopeo/jopeo/blob/master/posters/Burst_pressure_HIRD_2022.jpg?raw=true){:target="_blank"}
+Model](https://github.com/jopeo/jopeo/blob/master/posters/Burst_pressure_HIRD_2022.jpg?raw=true)](https://github.com/jopeo/jopeo/blob/master/posters/Burst_pressure_HIRD_2022.jpg?raw=true){:target="_blank"}
 
 [![Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced
-Repetition](..\jopeo.github.io/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true){:target="_blank"}
+Repetition](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true){:target="_blank"}
 
 [![Rethinking Anki: An Innovative Gamification 
-Add-on](..\jopeo.github.io/Images/Research/MELS_Poster.jpg)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true){:target="_blank"}
+Add-on](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true){:target="_blank"}
 
-### Other Presentations
+## Other Presentations
 
-<object data="..\jopeo.github.io/Images/Research/CIMED_HIRD.pdf" width="100%" height="800px">
-    <embed src="..\jopeo.github.io/Images/Research/CIMED_HIRD.pdf">
-        <p>This browser does not support PDFs. Please <a href="..\jopeo.github.io/Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
+<object data="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf?raw=true" width="100%" height="800px">
+    <embed src="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf?raw=true">
+        <p>This browser does not support PDFs. Please <a href="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf?raw=true">download this PDF</a> to view it.</p>
 </object>
 
 
