@@ -1,6 +1,4 @@
 ---
-title: Joseph (Joe) Policarpio
-description:
 layout: template
 filename: contact
 ---
