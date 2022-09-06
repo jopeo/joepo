@@ -4,10 +4,10 @@ layout: template
 filename: index
 ---
 
-# Hi! I'm Joseph (Joe) Policarpio
+# Hi! I'm Joseph ( Joe ) Policarpio
 
 I am a fourth-year medical student at the [Carle Illinois College of Medicine](https://medicine.illinois.edu/){:target="_blank"}.
-My professional interests include cardiothoracic surgery, and medical education.
+My professional interests include cardiothoracic surgery and medical education.
 
 Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:target="_blank"}.
 
