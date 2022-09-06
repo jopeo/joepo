@@ -1,10 +1,11 @@
 ---
-title: Joseph Policarpio
+title: Joseph (Joe) Policarpio
+description:
 layout: template
 filename: index
 ---
 
-# Hi! I'm Joseph (Joe) Policarpio
+# Hi! I'm Joe Policarpio
 
 Here is the link to my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:target="_blank"}.
 
