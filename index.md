@@ -23,6 +23,4 @@ Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:targe
 
 ### Credentials
 
-### Upbringing
-
 

@@ -53,11 +53,13 @@ Cardiomyopathy](https://github.com/jopeo/jopeo/blob/master/posters/Atypical_Card
 # Other Presentations
 <br>
 Policarpio, J., MacInnis, B.,  & Wallon, R. (2021, April 16). Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced Repetition [Virtual presentation]. 19th Annual Health Innovation Research Day, Carle Illinois College of Medicine, virtual.
+
 <object data="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf" width="100%" height="800px">
     <embed src="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf">
         <p>This browser does not support PDFs. Please <a href="https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
 </object>
 
+<br><br><br>
 
 Hojati, A., Policarpio, J., Wheeler, M., & Rowitz, B. (2021, April 16). Ex-vivo animal testing of small burst pressure and state of the art repair of bowel perforation [Virtual presentation]. 19th Annual Health Innovation Research Day, Carle Illinois College of Medicine, virtual.
 
