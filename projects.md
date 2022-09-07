@@ -6,8 +6,8 @@ filename: contact
 
 # Projects
 
-- Anki with Friends
-- COVID en Español
+- [Anki with Friends](https://ankiwithfriends.com/){:target="_blank"}
+- [COVID en Español](http://www.covidenespanol.com/){:target="_blank"}
 - Medical Student Roles in Bridging Gaps in Primary Care  
 - Predicting Heart Disease  
 - Automatic Windows File Copier
