@@ -92,12 +92,3 @@ Hojati, A., Policarpio, J., Wheeler, M., & Rowitz, B. (2021, April 16). Ex-vivo 
 </iframe>
 <br><br><br><br>
 
-<div class="embed-container">
-  <iframe
-      width="100%"
-      height="800"
-      src="https://drive.google.com/file/d/1kf4pqO6USOhKwopK8jdjcVd8zuW2vuLC/view"
-      frameborder="0"
-      allowfullscreen="true">
-  </iframe>
-</div>
