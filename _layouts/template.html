@@ -21,18 +21,19 @@
 
       {% if page.title == site.title %}
         <h1 class="project-name" style="color:#F5F4F4">{{ page.title }}</h1>
-        <h2 class="project-tagline" style="color:#D7D5D2">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+        <h2 class="project-tagline" style="color:#DCDCDC">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% else %}
         <h1 class="project-name" style="color:#F5F4F4">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      {% endif %}
+        {% endif %}
 
-<!--        {% for page in site.pages %}-->
 <!--            <a href={{ page.filename }} class="btn">{{ page.title }}</a>-->
+<!-- <h2 class="project-tagline" style="color:#D7D5D2">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>-->
+<!--        {% for page in site.pages %}-->
 <!--        {% endfor %}-->
-            <a href="index" class="btn">About Me</a>
-            <a href="projects" class="btn">Projects</a>
-            <a href="publications" class="btn">Publications</a>
-            <a href="contact" class="btn">Contact Me</a>
+            <a href="index" class="btn" style="color:#DCDCDC">About Me</a>
+            <a href="projects" class="btn" style="color:#DCDCDC">Projects</a>
+            <a href="publications" class="btn" style="color:#DCDCDC">Publications</a>
+            <a href="contact" class="btn" style="color:#DCDCDC">Contact Me</a>
 
       {% if site.github.is_project_page %}
 <!--        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>-->
