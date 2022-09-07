@@ -53,19 +53,33 @@ Cardiomyopathy](https://github.com/jopeo/jopeo/blob/master/posters/Atypical_Card
 # Other Presentations
 <br>
 Policarpio, J., MacInnis, B.,  & Wallon, R. (2021, April 16). Augmenting Anki: Gamification of Software to Promote Retrieval Practice with Spaced Repetition [Virtual presentation]. 19th Annual Health Innovation Research Day, Carle Illinois College of Medicine, virtual.
-<object data="./Images/pdfs/CIMED_HIRD.pdf"
-    type="application/pdf"
-    width="100%"
-    height="800px">
-    <embed src="./Images/pdfs/CIMED_HIRD.pdf">
-        <p>This browser does not support PDFs. Please <a href="./Images/Research/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
-    </embed>
-</object>
+
+[comment]: <> (<object data="./Images/pdfs/CIMED_HIRD.pdf")
+
+[comment]: <> (    type="application/pdf")
+
+[comment]: <> (    width="100%")
+
+[comment]: <> (    height="800px">)
+
+[comment]: <> (    <embed src="./Images/pdfs/CIMED_HIRD.pdf">)
+
+[comment]: <> (        <p>This browser does not support PDFs. Please <a href="./Images/pdfs/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>)
+
+[comment]: <> (    </embed>)
+
+[comment]: <> (</object>)
 
 <iframe width="100%" height="800" src="./Images/pdfs/CIMED_HIRD.pdf">
+    <embed src="./Images/pdfs/CIMED_HIRD.pdf">
+        <p>This browser does not support PDFs. Please <a href="./Images/pdfs/CIMED_HIRD.pdf">download this PDF</a> to view it.</p>
+    </embed>
 </iframe>
-
 <br><br><br>
 
 Hojati, A., Policarpio, J., Wheeler, M., & Rowitz, B. (2021, April 16). Ex-vivo animal testing of small burst pressure and state of the art repair of bowel perforation [Virtual presentation]. 19th Annual Health Innovation Research Day, Carle Illinois College of Medicine, virtual.
-
+<iframe width="100%" height="800" src="./Images/pdfs/bowel_perf.pdf">
+    <embed src="./Images/pdfs/CIMED_HIRD.pdf">
+        <p>This browser does not support PDFs. Please <a href="./Images/pdfs/bowel_perf.pdf">download this PDF</a> to view it.</p>
+    </embed>
+</iframe>
