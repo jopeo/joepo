@@ -12,6 +12,7 @@ My professional interests include cardiothoracic surgery and medical education.
 Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:target="_blank"}.
 
 ## Education
+
 **Carle Illinois College of Medicine**, Champaign, IL
   <br>&nbsp;&nbsp;&nbsp;&nbsp;anticipated graduation May 2023
 <br>
@@ -24,6 +25,7 @@ Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:targe
   <br>&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science, Biological Systems Engineering,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*June 2011*
 
 ## Employment
+
 **Carle Illinois College of Medicine**, Champaign, IL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*April 2020 – Present*
 <br>&nbsp;&nbsp;&nbsp;&nbsp;Peer Tutor
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • All courses and clerkships completed
@@ -78,9 +80,9 @@ Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:targe
 
 ## Credentials
 
-•
-•
-•
-•
-•
-•
+- United States Patent and Trademark Office (USPTO) [Registered Patent Agent](https://oedci.uspto.gov/OEDCI/practitionerSearchEntry){:target="_blank"}
+- Federal Aviation Administration (FAA) [Unmanned Aircraft Systems (UAS) Pilot](https://amsrvs.registry.faa.gov/airmeninquiry/){:target="_blank"}
+- California Board of Engineers Engineer In Training (EIT) Certificate
+- Collaborative Institutional Training Initiative (CITI Program) Core IRB Training
+- United States Center for SafeSport Training
+
