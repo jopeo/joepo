@@ -17,11 +17,11 @@ Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:targe
 <br>
 
 **Mills College**, Oakland, CA
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;Post-baccalaureate Pre-medical Certificate, May 2018
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;Post-baccalaureate Pre-medical Certificate,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*May 2018*
 <br>
 
 **University of California**, Davis, CA
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science, Biological Systems Engineering, June 2011
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science, Biological Systems Engineering,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*June 2011*
 
 ## Employment
 **Carle Illinois College of Medicine**, Champaign, IL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*April 2020 – Present*
@@ -51,31 +51,26 @@ Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:targe
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Surgical microscopy
 <br>
 
-
-
-
-**** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 
+**Phoenix Research Laboratories**, Pleasanton, CA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*May 2011 – June 2012*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Manufacturing Engineer
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Installed and in-serviced on Micron II and Micron III retinal imaging system
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Confocal microscopy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Optical coherence tomography
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Photocoagulating laser
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Focal and full-field (Ganzfeld) electroretinography
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Slit lamp
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o Trabecular meshwork gonioscopy
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Led shipping/receiving, animal husbandry, technical service, manufacturing processes
 <br>
 
-**** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 
+**Caffe Italia Restaurant**, Davis, CA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*July 2007 – March 2011*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;Employee Trainer, Senior Server, and Lead Employee for off-site catering 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 20-30 hours per week during undergraduate studies
 <br>
 
-**** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 
-<br>
-
-**** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**
-<br>&nbsp;&nbsp;&nbsp;&nbsp;
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • 
+**DeVino’s Pizza & Pasta**, Pleasant Hill, CA&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*May 2003 – July 2007*
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Nights and weekends during high school
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; • Promoted five times and retired as supervisor
 <br>
 
 
