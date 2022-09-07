@@ -92,5 +92,8 @@ Hojati, A., Policarpio, J., Wheeler, M., & Rowitz, B. (2021, April 16). Ex-vivo 
 </iframe>
 <br><br><br><br>
 
-<video src="blob:https://uofi.app.box.com/0fb6ec4c-b52c-4c5d-9e16-2b005db1e25e" controls="controls" style="max-width: 897px;">
+
+
+<video width="100%" height="800" src="https://drive.google.com/file/d/1kf4pqO6USOhKwopK8jdjcVd8zuW2vuLC/view?usp=sharing" type="video/mp4" controls="controls" style="max-width: 897px;">
+
 </video>
