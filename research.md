@@ -93,7 +93,6 @@ Cardiomyopathy](https://github.com/jopeo/jopeo/blob/master/posters/Atypical_Card
 
 <br><br><br>
 
->_
 ><iframe width="100%" height="800" src="./Images/pdfs/meningiomas.pdf">
 >    <embed src="./Images/pdfs/meningiomas.pdf">
 >        <p>This browser does not support PDFs. Please <a href="./Images/pdfs/meningiomas.pdf">download this PDF</a> to view it.</p>
