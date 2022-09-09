@@ -48,7 +48,7 @@ Repetition](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research
 
 >MacInnis, B., Policarpio, J., & Wallon, R. (2021, October 28-29). Rethinking Anki: An Innovative Gamification Add-on [Virtual poster]. Virtual 5th Annual Medical Education Learning Specialists (MELS) Meeting.
 >[![Rethinking Anki: An Innovative Gamification
-Add-on](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/Policarpio_MacInnis_Wallon_poster_IAMSE.jpg?raw=true){:target="_blank"}
+Add-on](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/MELS_Poster.jpg?raw=true)](https://github.com/jopeo/jopeo.github.io/blob/master/Images/Research/MELS_Poster.jpg?raw=true){:target="_blank"}
 
 <br><br><br>
 
