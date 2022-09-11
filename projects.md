@@ -14,3 +14,5 @@ filename: contact
 - Text Encryption and Compression
 - Web Scraper
 - docAssIst: The Doctor's Artificial Assistant
+
+See my [GitHub repositories here](https://github.com/jopeo){:target="_blank"}
