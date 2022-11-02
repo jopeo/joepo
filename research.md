@@ -101,3 +101,14 @@ Cardiomyopathy](https://github.com/jopeo/jopeo/blob/master/posters/Atypical_Card
 
 <br><br><br>
 
+><iframe src="https://drive.google.com/file/d/1kf4pqO6USOhKwopK8jdjcVd8zuW2vuLC/preview" width="640" height="480" allow="autoplay"></iframe>
+
+<br><br><br>
+
+><iframe width="100%" height="800" src="./Images/pdfs/Right_Lower_Lobe.pdf">
+>    <embed src="./Images/pdfs/Right_Lower_Lobe.pdf">
+>        <p>This browser does not support PDFs. Please <a href="./Images/pdfs/Right_Lower_Lobe.pdf">download this PDF</a> to view it.</p>
+>    </embed>
+></iframe>
+
+
