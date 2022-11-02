@@ -7,7 +7,7 @@ filename: contact
 # Projects
 
 - Coming soon - transplant outcome prediction with [UNOS](https://unos.org/data/){:target="_blank"} dataset
-- [Heart Disease Prediction using Machine Learning](http://www.heartdiseaseprediction.com/){:target="_blank"}
+- [Heart Disease Prediction using Machine Learning](https://www.heartdiseaseprediction.com/){:target="_blank"}
 - [Stroke Prediction using Machine Learning - Live Prototype](http://www.strokepredictor.com/){:target="_blank"}
 - [Anki with Friends](https://ankiwithfriends.com/){:target="_blank"}
 - [COVID en Español](http://www.covidenespanol.com/){:target="_blank"}
