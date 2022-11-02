@@ -101,7 +101,7 @@ Cardiomyopathy](https://github.com/jopeo/jopeo/blob/master/posters/Atypical_Card
 
 <br><br><br>
 
-><iframe src="https://drive.google.com/file/d/1kf4pqO6USOhKwopK8jdjcVd8zuW2vuLC/preview" width="640" height="480" allow="autoplay"></iframe>
+><iframe src="https://drive.google.com/file/d/1kf4pqO6USOhKwopK8jdjcVd8zuW2vuLC/preview" width="100%" height="100%" allow="autoplay"></iframe>
 
 <br><br><br>
 
