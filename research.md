@@ -6,11 +6,13 @@ filename: contact
 
 # Journal Articles
 
-Policarpio, J. A., Derrick, M. J., & Mehta, S. S. (In Press). Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional Report. *JTCVS Techniques*. DOI:<https://doi.org/10.1016/j.xjtc.2022.07.023>{:target="_blank"}
+Policarpio, J. (2022, October 13). Generation X: Reaching the Minds of Residents and Fellows. *CTSNet*. <https://doi.org/10.25373/ctsnet.21325491.v1>{:target="_blank"}
+
+Policarpio, J. A., Derrick, M. J., & Mehta, S. S. (2022, October 1). Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional Report. *JTCVS Techniques*. DOI:<https://doi.org/10.1016/j.xjtc.2022.07.023>{:target="_blank"}
 
 Valasapalli, S., Sathe, S., Policarpio, J. A., & Mantha, S. (2021). A Rare Case of Quadruple Negative GIST with an Unusual Presentation in a Young Female, Report of a Case. *Journal of Oncology Research Review & Reports*. SRC/JONRR-163. J Oncol Res Rev Rep.
 
-Poster Presentation Abstracts, 25th Annual Meeting of the International Association of Medical Science Educators, June 12-17, 2021. *Med Sci Educ*. 2021 Nov 29;31(Suppl 1):29-110. doi: 10.1007/s40670-021-01454-0. Epub ahead of print. PMID: 34868729; PMCID: PMC8629599.
+Poster Presentation Abstracts, 25th Annual Meeting of the International Association of Medical Science Educators, June 12-17, 2021. *Med Sci Educ*. 2021 Nov 29;31(Suppl 1):29-110. <https://doi: 10.1007/s40670-021-01454-0>{:target="_blank"}. Epub ahead of print. PMID: 34868729; PMCID: PMC8629599.
 
 Panigrahy, N., Policarpio, J., & Ramanathan, R. (2020). Multisystem inflammatory syndrome in children and SARS-CoV-2: A scoping review. *Journal of pediatric rehabilitation medicine*, 13(3), 301-316.
 

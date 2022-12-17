@@ -7,7 +7,7 @@ filename: index
 # Hi! I'm Joseph ( Joe ) Policarpio
 
 I am a fourth-year medical student at the [Carle Illinois College of Medicine](https://medicine.illinois.edu/){:target="_blank"},
-the world's first engineering medical school.
+the nation's first engineering medical school.
 
 My professional interests include cardiothoracic surgery and medical education. My research interests include applying
 technologies such as machine learning to both patient care and medical education, with the goal of alleviating 
