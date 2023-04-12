@@ -6,6 +6,8 @@ filename: contact
 
 # Journal Articles
 
+Hojati, A., Policarpio, J., Wheeler, M. B., Rowitz, B. Repair of Bowel Perforation: Endoscopic State of the Art. *J Reg Med Biol Res*. 2023;4(1):1-6. <https://doi.org/10.46889/JRMBR.2023.4104>{:target="_blank"}
+
 Policarpio, J. (2022, October 13). Generation X: Reaching the Minds of Residents and Fellows. *CTSNet*. <https://doi.org/10.25373/ctsnet.21325491.v1>{:target="_blank"}
 
 Policarpio, J. A., Derrick, M. J., & Mehta, S. S. (2022, October 1). Anomalous Right Coronary Artery from the Pulmonary Artery: An Institutional Report. *JTCVS Techniques*. DOI:<https://doi.org/10.1016/j.xjtc.2022.07.023>{:target="_blank"}
