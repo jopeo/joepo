@@ -1,5 +1,5 @@
 ---
-title: Joseph Policarpio
+title: Joseph Policarpio, MD
 layout: template
 filename: index
 ---
