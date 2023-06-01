@@ -4,14 +4,14 @@ layout: template
 filename: index
 ---
 
-# Hi! I'm Joseph ( Joe ) Policarpio
+# Hi! I'm Joe Policarpio
 
-I am a fourth-year medical student at the [Carle Illinois College of Medicine](https://medicine.illinois.edu/){:target="_blank"},
-the nation's first engineering medical school.
+I am a first-year General Surgery resident physician at [Florida Atlantic University](https://www.fau.edu/medicine/gme/residency-fellowship/surgery/){:target="_blank"}.
+I recently completed medical school at [Carle Illinois College of Medicine](https://medicine.illinois.edu/){:target="_blank"}, the nation's first engineering-based medical school.
 
 My professional interests include cardiothoracic surgery and medical education. My research interests include applying
-technologies such as machine learning to both patient care and medical education, with the goal of alleviating 
-administrative burdens and addressing the learning styles of upcoming generations, to better educate leaders and 
+technologies such as machine learning to both patient care and medical education, with the goal of improving outcome prediction,
+alleviating administrative burdens and addressing the learning styles of upcoming generations, to better educate leaders and 
 provide excellent, patient-centered care.
 
 Thanks for visiting my website!
@@ -20,16 +20,17 @@ Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:targe
 
 ## Education
 
-**Carle Illinois College of Medicine**, Champaign, IL
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;anticipated graduation May 2023
+**Doctor of Medicine**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*May 2023*
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;Carle Illinois College of Medicine, Champaign, IL
 <br>
 
-**Mills College**, Oakland, CA
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;Post-baccalaureate Pre-medical Certificate,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*May 2018*
+**Post-baccalaureate Pre-medical Certificate**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*May 2018*
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;Mills College, Oakland, CA
 <br>
 
-**University of California**, Davis, CA
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;Bachelor of Science, Biological Systems Engineering,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*June 2011*
+**Bachelor of Science in Biological Systems Engineering**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*June 2011*
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;University of California, Davis, CA
+<br>
 
 ## Employment
 
@@ -88,8 +89,13 @@ Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:targe
 ## Credentials
 
 - United States Patent and Trademark Office (USPTO) [Registered Patent Agent](https://oedci.uspto.gov/OEDCI/practitionerSearchEntry){:target="_blank"}
+  <br><br>
 - Federal Aviation Administration (FAA) [Unmanned Aircraft Systems (UAS) Pilot](https://amsrvs.registry.faa.gov/airmeninquiry/){:target="_blank"}
+  <br><br>
 - California Board of Engineers Engineer In Training (EIT) Certificate
+  <br><br>
 - Collaborative Institutional Training Initiative (CITI Program) Core IRB Training
+  <br><br>
 - United States Center for SafeSport Training
+<br><br>
 

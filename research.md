@@ -6,6 +6,8 @@ filename: contact
 
 # Journal Articles
 
+Hojati, A., Policarpio, J., Yerrabelli, R. S., Wheeler, M. B., Rowitz, B. Patch Repair for Intestinal Perforation Closure in an Ex-Vivo Porcine Model with Burst Pressure Characterization. *J Reg Med Biol Res*. 2023;4(1):1-5. <https://doi.org/10.46889/JRMBR.2023.4106>{:target="_blank"}
+
 Hojati, A., Policarpio, J., Wheeler, M. B., Rowitz, B. Repair of Bowel Perforation: Endoscopic State of the Art. *J Reg Med Biol Res*. 2023;4(1):1-6. <https://doi.org/10.46889/JRMBR.2023.4104>{:target="_blank"}
 
 Policarpio, J. (2022, October 13). Generation X: Reaching the Minds of Residents and Fellows. *CTSNet*. <https://doi.org/10.25373/ctsnet.21325491.v1>{:target="_blank"}
