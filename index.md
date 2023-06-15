@@ -88,6 +88,10 @@ Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:targe
 
 ## Credentials
 
+- [Basic Life Support (BLS)](https://ecards.heart.org/api/relay/v1/ecard/getfullpdf?eCardUId=75BF1B7B-50ED-4EDC-B6F9-C1F63A46E9F8&langId=1){:target="_blank"} and
+  [Advanced Cardiovascular Life Support (ACLS)](https://ecards.heart.org/api/relay/v1/ecard/getfullpdf?eCardUId=890BBFCD-6790-4BEE-A342-62F66B3F635F&langId=1){:target="_blank"}
+  certified
+  <br><br>
 - United States Patent and Trademark Office (USPTO) [Registered Patent Agent](https://oedci.uspto.gov/OEDCI/practitionerSearchEntry){:target="_blank"}
   <br><br>
 - Federal Aviation Administration (FAA) [Unmanned Aircraft Systems (UAS) Pilot](https://amsrvs.registry.faa.gov/airmeninquiry/){:target="_blank"}
