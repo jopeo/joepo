@@ -10,6 +10,8 @@ Here are some articles I created:
 
 - [Dr. Lawrence Lottenberg](https://en.wikipedia.org/wiki/Lawrence_Lottenberg){:target="_blank"}
   <br><br>
+- [Dr. Elaine Pico](https://en.wikipedia.org/wiki/Elaine_L._Pico){:target="_blank"}
+  <br><br>
 - [Dr. Joseph Lamelas](https://en.wikipedia.org/wiki/Joseph_Lamelas){:target="_blank"}
   <br><br>
 - [Dr. Yolonda Colson](https://en.wikipedia.org/wiki/Yolonda_L._Colson){:target="_blank"}
