@@ -6,8 +6,9 @@ filename: index
 
 # Hi! I'm Joe Policarpio
 
-I am a first-year General Surgery resident physician at [Florida Atlantic University](https://www.fau.edu/medicine/gme/residency-fellowship/surgery/){:target="_blank"}.
-I recently completed medical school at [Carle Illinois College of Medicine](https://medicine.illinois.edu/){:target="_blank"}, the nation's first engineering-based medical school.
+I am currently a General Surgery resident physician at [Florida Atlantic University](https://www.fau.edu/medicine/gme/residency-fellowship/surgery/){:target="_blank"}.
+I completed medical school at [Carle Illinois College of Medicine](https://medicine.illinois.edu/){:target="_blank"}, 
+the nation's first engineering-based medical school, after working as a full-time field-service engineer for surgical devices for several years.
 
 My professional interests include cardiothoracic surgery and medical education. My research interests include applying
 technologies such as machine learning to both patient care and medical education, with the goal of improving outcome prediction,
@@ -17,6 +18,13 @@ provide excellent, patient-centered care.
 Thanks for visiting my website!
 
 Here is my [LinkedIn page](https://www.linkedin.com/in/joseph-policarpio){:target="_blank"}.
+
+## Postgraduate Training
+
+**General Surgery Residency Program**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*July 2023*
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;Florida Atlantic University, Boca Raton, FL
+<br>
+
 
 ## Education
 
